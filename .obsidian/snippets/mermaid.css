@@ -1,0 +1,9 @@
+/* Единый шрифт Mermaid-диаграмм */
+.markdown-rendered .mermaid,
+.markdown-preview-view .mermaid {
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+.mermaid svg {
+    max-width: 100%;
+    height: auto;
+}

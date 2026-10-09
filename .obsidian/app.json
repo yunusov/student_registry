@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "current",
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "smartIndentList": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "attachmentFolderPath": "_Вложения",
+  "userIgnoreFilters": [
+    "Шаблоны/"
+  ]
+}

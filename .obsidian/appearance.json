@@ -1,0 +1,9 @@
+{
+  "showRibbon": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "mermaid"
+  ],
+  "cssTheme": "Blue Topaz"
+}
